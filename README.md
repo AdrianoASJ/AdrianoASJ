@@ -10,4 +10,4 @@
 
 ### My name is Adriano, I'm a Full Stack Developer and an enthusiast of the best web & mobile development technologies..
 
-#### 💜 Techs: Javascript (React, React-Native, Nodejs) and Python (Django) with 🐳 docker
+#### 💜 Techs: Python (Django, Django-Rest-Framework) and Javascript (React, React-Native, Nextjs, NestJs)!!!
